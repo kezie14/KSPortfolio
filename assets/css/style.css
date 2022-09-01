@@ -1,0 +1,74 @@
+body {
+    background-color: rgba(187, 18, 170, 0.557);
+    font-family: 'Montserrat', sans-serif;
+    font-size: 12px;
+    font-weight: bolder;
+}
+header {
+    font-size: 22;
+    color: rgb(35, 35, 196);
+}
+nav {
+    font-size: 16;
+    font-weight: bolder;
+    color:rgb(150, 236, 245);
+    border-radius: 10px;
+    
+}
+
+h1 {
+    font-size: 22;
+    font-weight: bold;
+    color: rgb(247, 219, 61);
+    padding: 10px 12px;
+    border: 3px solid rgb(99, 30, 173);
+    border-radius: 40px; 
+}
+
+section {
+    font-size: 22;
+    font-weight: bolder;
+    color: rgb(247, 219, 61);
+    border: 3px solid rgb(99, 30, 173);
+    border-radius: 20px;
+}
+
+h2 {
+    font-size: 20;
+    color-scheme:  rgb(99, 30, 173);
+    border: 3px solid rgba(85, 0, 255, 0.835);
+    margin: 50px;
+    
+
+}
+
+
+h3 {
+    font-size: 16;
+    color:  rgb(99, 30, 173);
+    border: 3px solid rgba(85, 0, 255, 0.835);
+}
+
+h4 {
+    font-size: 22;
+    font-weight: bolder;
+    color:  rgb(247, 228, 60);
+    border: 3px solid rgba(85, 0, 255, 0.835);
+    border-radius: 10px;
+    border-width: 1px;
+}
+Contact Me
+footer {
+    font-size: 22;
+    font-weight: bolder;
+    color: rgb(99, 30, 173);
+    border: 3px solid ;
+    border-radius: 10px;
+    border-width: 1px;
+}
+img {
+    border-radius: 20px;
+    padding: 10px 12px 10px 12px;
+    border: 8px solid rgb(99, 30, 173);
+    
+}
